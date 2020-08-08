@@ -293,6 +293,7 @@ www.lacentrale.fr
 www.ladenzeile.de
 www.lonny.com
 www.meinestadt.de
+www.meinprospekt.de
 www.metal-hammer.de
 www.musikexpress.de
 www.newsweek.pl

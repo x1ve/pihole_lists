@@ -1,0 +1,14 @@
+api-cache.blizzcon.com
+api.overwatchleague.com
+st.chatango.com
+business-services.heise.de
+(^|\.)pressekompass\.net$
+(^|\.)opinary\.com$
+(^|\.)pubads\.g\.doubleclick\.net$
+(^|\.)sendgrid\.(com$|net$|de$)
+(^|\.)share-online\.biz$
+(^|\.)share-links\.biz$
+(^|\.)facebook\.(com$|net$|de$)
+(^|\.)fbcdn\.(com$|net$|de$)
+.*(xn--).*([a-zA-Z0-9\-\._]{2,256})*(\.[a-z]{2,18})
+([a-zA-Z0-9\-\._]{2,256})(\.link$|\.casino$|\.bet$|\.cn$|\.ru$|\.co$|\.vn$)

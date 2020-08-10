@@ -10,4 +10,3 @@ business-services.heise.de
 (^|\.)share-links\.biz$
 (^|\.)facebook\.(com$|net$|de$)
 (^|\.)fbcdn\.(com$|net$|de$)
-.*(xn--).*([a-zA-Z0-9\-\._]{2,256})*(\.[a-z]{2,18})

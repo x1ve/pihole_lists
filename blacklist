@@ -11,4 +11,3 @@ business-services.heise.de
 (^|\.)facebook\.(com$|net$|de$)
 (^|\.)fbcdn\.(com$|net$|de$)
 .*(xn--).*([a-zA-Z0-9\-\._]{2,256})*(\.[a-z]{2,18})
-([a-zA-Z0-9\-\._]{2,256})(\.link$|\.casino$|\.bet$|\.cn$|\.ru$|\.co$|\.vn$)
